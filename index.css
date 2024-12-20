@@ -2,21 +2,7 @@ body {
   font-size: 150%;
   height: 100vh;
   background: #000;
-  background-image: linear-gradient(
-    to left top,
-    #6a0dad,
-    #7a1dbb,
-    #8b2fca,
-    #9c41d9,
-    #ad53e8,
-    #b861f0,
-    #c36ff8,
-    #ce7dff,
-    #d68aff,
-    #de97ff,
-    #e6a4ff,
-    #eeb1ff
-  );
+  background-image: linear-gradient(to left top, #ba4141, #b73a39, #b33230, #b02a28, #ac211f, #a51c1a, #9f1616, #981011, #8e0e0f, #830c0d, #790a0b, #6f0808);
   font-family: 'Arial', sans-serif;
 }
 
